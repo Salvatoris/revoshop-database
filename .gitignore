@@ -1,5 +1,15 @@
-# Object file
-*.o
+# Environment & secrets
+.env
 
-# Ada Library Information
-*.ali
+# OS files
+.DS_Store
+Thumbs.db
+
+# Editor
+.vscode/
+.idea/
+
+# Database dumps / logs
+*.log
+*.dump
+*.bak
